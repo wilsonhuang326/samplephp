@@ -1,4 +1,4 @@
 samplephp
 =========
-
-A do nothing PHP site to show that you properly configured a PHP site
+# Student namer and number:
+Wilson Huang 300139405

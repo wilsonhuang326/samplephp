@@ -1,4 +1,4 @@
 samplephp
 =========
-# Student namer and number:
+# Student name and number:
 Wilson Huang 300139405
